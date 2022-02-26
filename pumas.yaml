@@ -1,6 +1,10 @@
 team: Pumas
 
+<<<<<<< HEAD
 manager: Jude2
+=======
+manager: Jude3
+>>>>>>> zzzz
 
 members:
 - Ezra
